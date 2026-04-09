@@ -1,5 +1,6 @@
 ## Victor Silva
 Data Analyst focused on Sales Performance, Revenue Analytics, and Data Quality
+
 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/victor-silva-32a673345/
 - Email: victor.silva.data@hotmail.com
